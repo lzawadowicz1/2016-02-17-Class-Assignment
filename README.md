@@ -1,1 +1,1 @@
-Let make a merge conflict!
+Time to make a conflict!
