@@ -1,1 +1,1 @@
-Let make a merge conflict!
+I'm conflicted!
